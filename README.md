@@ -36,10 +36,6 @@ One-time purchase — yours forever. No subscription, no ads.
 
 ## Preview
 
-[![GIF Launcher Demo](https://img.youtube.com/vi/SmF0a4vSJEY/maxresdefault.jpg)](https://youtu.be/SmF0a4vSJEY)
-
-▶️ [Watch the demo on YouTube](https://youtu.be/SmF0a4vSJEY)
-
 ---
 
 ![Screenshot 1](https://github.com/Hedaron0/gif-launcher-releases/blob/main/assets/Screenshot%202026-03-15%20143017.png?raw=true)
