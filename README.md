@@ -39,10 +39,8 @@ One-time purchase — yours forever. No subscription, no ads.
 ---
 
 ![Screenshot 1](https://github.com/Hedaron0/gif-launcher-releases/blob/main/assets/Screenshot%202026-03-15%20143017.png?raw=true)
-![Screenshot 2](https://github.com/Hedaron0/gif-launcher-releases/blob/main/assets/Screenshot%202026-03-15%20142009.png?raw=true)
-![Screenshot 3](https://github.com/Hedaron0/gif-launcher-releases/blob/main/assets/Screenshot%202026-03-15%20142025.png?raw=true)
-![Screenshot 4](https://github.com/Hedaron0/gif-launcher-releases/blob/main/assets/Screenshot%202026-03-15%20143035.png?raw=true)
-![Screenshot 5](https://github.com/Hedaron0/gif-launcher-releases/blob/main/assets/Screenshot%202026-03-15%20143100.png?raw=true)
+![Screenshot 2](https://github.com/Hedaron0/gif-launcher-releases/blob/main/assets/Screenshot%202026-03-15%20143035.png?raw=true)
+![Screenshot 3](https://github.com/Hedaron0/gif-launcher-releases/blob/main/assets/Screenshot%202026-03-15%20143100.png?raw=true)
 
 ---
 
